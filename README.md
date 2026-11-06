@@ -29,11 +29,9 @@ This project analyzes sales transactions and customer information to understand 
 
 
 ## Insights
-
-Executive Summary
-Completed transactions generated ₱4,811,841.80 in product-line revenue across 9,811 completed orders and 4,307 customers.
- Average order value (AOV) was ₱421.50 Media order value was at ₱421.50
-
+SUMMARY
+The Sales Performance Dashboard analyzed sales transactions from 2024 to 2026, having 15,000 orders and 79,280 units sold. The business also
+recorded an average order value (AOV) of ₱421.50.
 
 KEY FINDINGS
 - Monthly Revenue: Monthly revenue fluctuated between approximately ₱230,000 and ₱280,000,
